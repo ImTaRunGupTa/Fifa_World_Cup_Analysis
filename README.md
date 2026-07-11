@@ -5,12 +5,10 @@ Historical Analysis of FIFA World Cup Matches (1930–2014) using Power BI
 </h3>
 
 <p align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge" />
 </p>
 
 ---
