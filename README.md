@@ -84,31 +84,30 @@ The objective of this project is to transform raw FIFA World Cup match data into
 
 ## 🏠 Tournament Overview
 
-![Overview](Images/overview-1.png)
+![Overview]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_1.png))
 
 ---
 
 ## 📊 Tournament Insights
 
-![Overview 2](Images/overview-2.png)
-
+![Overview 2](https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_2.png)
 ---
 
 ## 🏆 Team Performance Analysis
 
-![Team Performance](Images/team-performance.png)
+![Team Performance]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Team%20Performance%20Analysis.png))
 
 ---
 
 ## ⚽ Goal & Match Analysis
 
-![Goal Analysis](Images/goal-analysis.png)
+![Goal Analysis]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Goal%20and%20Match%20Analysis.png))
 
 ---
 
 ## 🏟 Match & Stadium Analysis
 
-![Stadium Analysis](Images/stadium-analysis.png)
+![Stadium Analysis]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Match%20Stadium%20Analysis.png))
 
 ---
 
@@ -215,4 +214,4 @@ It motivates me to build more data analytics and Power BI projects.
 
 GitHub: https://github.com/ImTaRunGupTa
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/tarungupta190504/
