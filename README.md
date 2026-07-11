@@ -1,67 +1,151 @@
-# ⚽ FIFA World Cup Match Analysis Dashboard (1930–2014)
+<h1 align="center">⚽ FIFA World Cup Match Analysis Dashboard</h1>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-green)
-![Status](https://img.shields.io/badge/Project-Completed-success)
+<h3 align="center">
+Historical Analysis of FIFA World Cup Matches (1930–2014) using Power BI
+</h3>
 
+<p align="center">
 
-An interactive **Power BI dashboard** built using historical **FIFA World Cup Match Data (1930–2014)** to uncover insights into tournament history, team performance, goals, stadiums, attendance, and match outcomes.
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
 
-This project demonstrates an end-to-end Business Intelligence workflow including **data cleaning, data modeling, DAX calculations, interactive visualizations, and analytical storytelling.**
+</p>
 
 ---
 
-# 📌 Project Overview
+## 📖 Project Overview
 
-The objective of this project is to transform raw FIFA World Cup match data into an interactive dashboard that helps users explore:
+This project presents an **interactive Power BI dashboard** built using historical **FIFA World Cup Match Data (1930–2014)**.
 
-- Tournament trends over the years
-- Team performance and match statistics
-- Goal analysis
-- Stadium & attendance insights
-- Match outcomes and historical comparisons
+The dashboard transforms raw match data into meaningful business insights through **Power Query**, **DAX**, and interactive visualizations. It provides an analytical view of tournament history, team performance, goals, stadiums, attendance, and match outcomes.
+
+This project demonstrates a complete **Business Intelligence workflow**, including:
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Dashboard Design
+- Interactive Data Visualization
+
+---
+
+# 📑 Table of Contents
+
+- [Project Highlights](#-project-highlights)
+- [Dashboard Preview](#-dashboard-preview)
+- [Dashboard Features](#-dashboard-features)
+- [Dashboard Pages](#-dashboard-pages)
+- [Tech Stack](#-tech-stack)
+- [KPIs Used](#-kpis-used)
+- [Dashboard Screenshots](#-dashboard-screenshots)
+- [Project Structure](#-project-structure)
+- [Data Cleaning & Preprocessing](#-data-cleaning--preprocessing)
+- [DAX Measures](#-dax-measures-created)
+- [Key Insights](#-key-insights)
+- [How to Use](#-how-to-use)
+- [Dataset](#-dataset)
+- [Connect With Me](#-connect-with-me)
+
+---
+
+# ✨ Project Highlights
+
+✔ Interactive Multi-page Dashboard
+
+✔ Historical FIFA World Cup Analysis (1930–2014)
+
+✔ Dynamic KPIs
+
+✔ Interactive Slicers & Filters
+
+✔ Custom DAX Measures
+
+✔ Power Query Data Cleaning
+
+✔ Business Intelligence Storytelling
+
+✔ Modern Dashboard Design
+
+---
+
+# 🚀 Dashboard Preview
+
+<p align="center">
+<img src="https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_1.png?raw=true" width="95%">
+</p>
 
 ---
 
 # 🛠 Tech Stack
 
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- CSV Dataset
-- Git & GitHub
+| Technology | Purpose |
+|------------|---------|
+| Microsoft Power BI | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | Measures & KPIs |
+| CSV Dataset | Data Source |
+| Git & GitHub | Version Control |
 
 ---
 
 # 📊 Dashboard Features
 
-### Tournament Overview
-- Total Matches
-- Total Goals
-- Average Goals
-- Total Attendance
-- Average Attendance
-- Home Wins
-- Away Wins
+### 🏠 Tournament Overview
 
-### Team Performance Analysis
+- Tournament KPIs
+- Historical Trends
+- Attendance Analysis
+- Match Statistics
+
+### 🏆 Team Performance Analysis
+
 - Top Teams by Matches
 - Top Teams by Goals
-- Home vs Away Goals
-- Team Statistics Table
+- Home vs Away Performance
+- Team Statistics
 
-### Goal & Match Analysis
-- Goals by Year
+### ⚽ Goal & Match Analysis
+
+- Goals by Tournament Year
 - Goals by Tournament Stage
 - Goal Distribution
 - Highest Scoring Matches
 
-### Match & Stadium Analysis
-- Top Stadiums
-- Top Host Cities
-- Attendance Analysis
-- Stadium-wise Match Distribution
+### 🏟 Match & Stadium Analysis
+
+- Stadium Performance
+- Host Cities
+- Attendance Trends
+- Venue Statistics
+
+---
+
+# 📄 Dashboard Pages
+
+## 🏠 Page 1 — Tournament Overview
+
+Provides a high-level summary of FIFA World Cup history, including tournament KPIs, attendance trends, match statistics, and historical comparisons.
+
+---
+
+## 🏆 Page 2 — Team Performance Analysis
+
+Analyzes team performances through matches played, goals scored, home and away records, and overall team statistics.
+
+---
+
+## ⚽ Page 3 — Goal & Match Analysis
+
+Explores goal trends across tournaments, match outcomes, goal distribution, and the highest-scoring matches.
+
+---
+
+## 🏟 Page 4 — Match & Stadium Analysis
+
+Highlights stadium utilization, host city statistics, attendance analysis, and venue performance across different tournaments.
 
 ---
 
@@ -84,37 +168,48 @@ The objective of this project is to transform raw FIFA World Cup match data into
 
 ## 🏠 Tournament Overview
 
-![Overview](https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_1.png)
+<p align="center">
+<img src="https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_1.png?raw=true" width="95%">
+</p>
 
 ---
 
-## 📊 Tournament Insights
+## 📈 Tournament Insights
 
-![Overview 2](https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_2.png)
+<p align="center">
+<img src="https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_2.png?raw=true" width="95%">
+</p>
+
 ---
 
 ## 🏆 Team Performance Analysis
 
-![Team Performance](https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Team%20Performance%20Analysis.png))
+<p align="center">
+<img src="https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Team%20Performance%20Analysis.png?raw=true" width="95%">
+</p>
 
 ---
 
 ## ⚽ Goal & Match Analysis
 
-![Goal Analysis](https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Goal%20and%20Match%20Analysis.png)
+<p align="center">
+<img src="https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Goal%20and%20Match%20Analysis.png?raw=true" width="95%">
+</p>
 
 ---
 
 ## 🏟 Match & Stadium Analysis
 
-![Stadium Analysis](https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Match%20Stadium%20Analysis.png)
+<p align="center">
+<img src="https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Match%20Stadium%20Analysis.png?raw=true" width="95%">
+</p>
 
 ---
 
 # 📁 Project Structure
 
-```
-FIFA-World-Cup-Dashboard
+```text
+Fifa_World_Cup_Analysis
 │
 ├── Dashboard
 │   └── FIFA World Cup Dashboard.pbix
@@ -123,11 +218,11 @@ FIFA-World-Cup-Dashboard
 │   └── WorldCupMatches.csv
 │
 ├── Images
-│   ├── overview-1.png
-│   ├── overview-2.png
-│   ├── team-performance.png
-│   ├── goal-analysis.png
-│   └── stadium-analysis.png
+│   ├── Overview_1.png
+│   ├── Overview_2.png
+│   ├── Team Performance Analysis.png
+│   ├── Goal and Match Analysis.png
+│   └── Match Stadium Analysis.png
 │
 ├── README.md
 └── LICENSE
@@ -139,20 +234,20 @@ FIFA-World-Cup-Dashboard
 
 The dataset was prepared using **Power Query** before visualization.
 
-Cleaning steps included:
+### Data Cleaning Steps
 
-- Handling missing values
-- Removing duplicate records
-- Converting columns to appropriate data types
-- Standardizing categorical values
-- Creating calculated columns
-- Data validation
+- ✔ Removed duplicate records
+- ✔ Handled missing values
+- ✔ Converted columns to appropriate data types
+- ✔ Standardized categorical values
+- ✔ Created calculated columns
+- ✔ Data validation and quality checks
 
 ---
 
 # 📊 DAX Measures Created
 
-Some of the custom measures include:
+The dashboard includes custom DAX measures such as:
 
 - Total Matches
 - Total Goals
@@ -171,47 +266,80 @@ Some of the custom measures include:
 
 # 🎯 Key Insights
 
-- Brazil has participated in the highest number of FIFA World Cup matches.
-- Home teams have won more matches than away teams throughout tournament history.
-- Goal scoring has generally increased in modern tournaments.
-- Estadio Azteca hosted the highest number of World Cup matches.
-- Mexico City has hosted more World Cup matches than any other city.
-- Knockout stages consistently attract the highest average attendance.
+- 🇧🇷 Brazil has participated in the highest number of FIFA World Cup matches.
+- ⚽ Home teams have won significantly more matches than away teams.
+- 📈 Goal scoring increased in modern World Cups compared to earlier tournaments.
+- 🏟 Estadio Azteca hosted the highest number of FIFA World Cup matches.
+- 🌍 Mexico City hosted more World Cup matches than any other city.
+- 👥 Knockout stages consistently recorded the highest average attendance.
 
 ---
 
 # 🚀 How to Use
 
-1. Clone this repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FIFA-World-Cup-Dashboard.git
+git clone https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis.git
 ```
 
-2. Open the `.pbix` file using **Microsoft Power BI Desktop**
+### Open the Dashboard
 
-3. Explore the interactive dashboards using filters and slicers.
+1. Install **Microsoft Power BI Desktop**
+2. Open:
+
+```text
+Dashboard/FIFA World Cup Dashboard.pbix
+```
+
+3. Explore the dashboard using interactive filters and slicers.
 
 ---
 
 # 📚 Dataset
 
-Historical FIFA World Cup Match dataset covering tournaments from **1930 to 2014**.
+**Dataset:** FIFA World Cup Match Dataset (1930–2014)
+
+The dataset contains historical information on:
+
+- Match Results
+- Teams
+- Goals
+- Stadiums
+- Host Cities
+- Attendance
+- Tournament Stages
 
 ---
 
-# ⭐ If you found this project helpful
+# 🌐 Connect With Me
 
-Please consider giving this repository a ⭐ on GitHub!
+<p align="center">
 
-It motivates me to build more data analytics and Power BI projects.
+<a href="https://github.com/ImTaRunGupTa">
+<img src="https://img.shields.io/badge/GitHub-ImTaRunGupTa-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/tarungupta190504/">
+<img src="https://img.shields.io/badge/LinkedIn-Tarun%20Gupta-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
 
 ---
 
-## 👨‍💻 Author
+# ⭐ Support
 
-**Your Name**
+If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
 
-GitHub: https://github.com/ImTaRunGupTa
+It motivates me to build more **Power BI**, **Data Analytics**, and **Business Intelligence** projects.
 
-LinkedIn: https://www.linkedin.com/in/tarungupta190504/
+---
+
+<p align="center">
+
+### Made with ❤️ using Power BI, Power Query & DAX
+
+⭐ **Don't forget to Star this Repository!** ⭐
+
+</p>
