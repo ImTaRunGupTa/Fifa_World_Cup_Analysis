@@ -213,6 +213,6 @@ It motivates me to build more data analytics and Power BI projects.
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ImTaRunGupTa
 
 LinkedIn: https://linkedin.com/in/yourprofile
