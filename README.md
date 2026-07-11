@@ -4,7 +4,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 An interactive **Power BI dashboard** built using historical **FIFA World Cup Match Data (1930–2014)** to uncover insights into tournament history, team performance, goals, stadiums, attendance, and match outcomes.
 
@@ -84,7 +84,7 @@ The objective of this project is to transform raw FIFA World Cup match data into
 
 ## 🏠 Tournament Overview
 
-![Overview]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_1.png))
+![Overview] (https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Overview_1.png)
 
 ---
 
@@ -95,19 +95,19 @@ The objective of this project is to transform raw FIFA World Cup match data into
 
 ## 🏆 Team Performance Analysis
 
-![Team Performance]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Team%20Performance%20Analysis.png))
+![Team Performance] (https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Team%20Performance%20Analysis.png))
 
 ---
 
 ## ⚽ Goal & Match Analysis
 
-![Goal Analysis]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Goal%20and%20Match%20Analysis.png))
+![Goal Analysis] (https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Goal%20and%20Match%20Analysis.png)
 
 ---
 
 ## 🏟 Match & Stadium Analysis
 
-![Stadium Analysis]((https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Match%20Stadium%20Analysis.png))
+![Stadium Analysis] (https://github.com/ImTaRunGupTa/Fifa_World_Cup_Analysis/blob/main/Images/Match%20Stadium%20Analysis.png)
 
 ---
 
