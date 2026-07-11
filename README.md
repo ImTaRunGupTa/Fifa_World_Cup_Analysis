@@ -326,20 +326,3 @@ The dataset contains historical information on:
 
 </p>
 
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
-
-It motivates me to build more **Power BI**, **Data Analytics**, and **Business Intelligence** projects.
-
----
-
-<p align="center">
-
-### Made with ❤️ using Power BI, Power Query & DAX
-
-⭐ **Don't forget to Star this Repository!** ⭐
-
-</p>
